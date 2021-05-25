@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int day = 1;
+int day = 2;
 
 bool isStillPlaying = true;
 
